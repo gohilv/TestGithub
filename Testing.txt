@@ -7,4 +7,4 @@ This is required change in TestGithub-2 branch.
 
 This is required change in TestGithub-4 branch.
 
-This is required change in TestGithub-5 branch. New change.
+This is required change in TestGithub-5 branch.
